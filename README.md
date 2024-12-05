@@ -1,4 +1,4 @@
-# Java Sample API Project
+# Java Sample REST API Project
 
 This is a sample Spring Boot application designed to demonstrate basic CRUD operations for managing users. The project uses Spring Data JPA to interact with a MySQL database and exposes a RESTful API for managing users. The application is configured with Spring Boot 3.0 and uses the latest features of Java and Spring technologies.
 
